@@ -9,3 +9,4 @@ The output feature as well as the input feature should be of the numerical form.
 
 ### ML ALGO USED 
 #### Naive Bayes
+#### Accuracy score:0.9772727
